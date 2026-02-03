@@ -1,1 +1,2 @@
 Learning Git on Windows
+Git tracks changes safely
