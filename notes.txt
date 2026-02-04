@@ -4,3 +4,4 @@ This change is in feature branch
 This line is added from feature branch
 This line is added specifically for PR testing
 this line is from branch A
+this line is from branch B
